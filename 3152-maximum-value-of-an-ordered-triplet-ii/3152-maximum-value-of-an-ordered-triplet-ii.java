@@ -12,7 +12,7 @@ class Solution {
         long res = 0;
 
         for (int i = 1; i < n - 1; i++) {
-            System.out.println(lMax);
+            // System.out.println(lMax);
             long temp = (long) (lMax - nums[i]) * rmax[i];
             res = Math.max(temp, res);
             lMax = Math.max(lMax, nums[i]);
