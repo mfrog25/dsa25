@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mfrog25/dsa25/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Hash Table
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mfrog25/dsa25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
