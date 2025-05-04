@@ -6,6 +6,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mfrog25/dsa25/tree/master/0416-partition-equal-subset-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mfrog25/dsa25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mfrog25/dsa25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mfrog25/dsa25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -21,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mfrog25/dsa25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mfrog25/dsa25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
