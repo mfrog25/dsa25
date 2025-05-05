@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mfrog25/dsa25/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mfrog25/dsa25/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 ## Counting
 |  |
