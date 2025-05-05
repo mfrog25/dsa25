@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mfrog25/dsa25/tree/master/0416-partition-equal-subset-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/mfrog25/dsa25/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
