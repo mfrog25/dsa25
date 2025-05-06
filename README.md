@@ -7,6 +7,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/mfrog25/dsa25/tree/master/0416-partition-equal-subset-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mfrog25/dsa25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/mfrog25/dsa25/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mfrog25/dsa25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mfrog25/dsa25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/mfrog25/dsa25/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
