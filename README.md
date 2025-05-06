@@ -16,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mfrog25/dsa25/tree/master/0022-generate-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/mfrog25/dsa25/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/mfrog25/dsa25/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mfrog25/dsa25/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mfrog25/dsa25/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/mfrog25/dsa25/tree/master/2048-build-array-from-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mfrog25/dsa25/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
