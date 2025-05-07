@@ -12,6 +12,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mfrog25/dsa25/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mfrog25/dsa25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mfrog25/dsa25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mfrog25/dsa25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mfrog25/dsa25/tree/master/0022-generate-parentheses) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mfrog25/dsa25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mfrog25/dsa25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mfrog25/dsa25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mfrog25/dsa25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
