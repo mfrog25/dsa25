@@ -1,5 +1,4 @@
 class Solution {
-
     private static final int INF = 0x3f3f3f3f;
 
     public int minTimeToReach(int[][] moveTime) {
@@ -17,10 +16,10 @@ class Solution {
 
         while (!q.isEmpty()) {
             State s = q.poll();
-            if (v[s.x][s.y]) {
-                continue;
-            }
-            v[s.x][s.y] = true;
+            // if (v[s.x][s.y]) {
+            //     continue;
+            // }
+            // v[s.x][s.y] = true;
             for (int[] dir : dirs) {
                 int nx = s.x + dir[0];
                 int ny = s.y + dir[1];
@@ -38,7 +37,6 @@ class Solution {
     }
 
     static class State implements Comparable<State> {
-
         int x, y, dis;
 
         State(int x, int y, int dis) {
