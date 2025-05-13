@@ -25,17 +25,20 @@
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/mfrog25/dsa25/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/mfrog25/dsa25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mfrog25/dsa25/tree/master/2215-finding-3-digit-even-numbers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mfrog25/dsa25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/mfrog25/dsa25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mfrog25/dsa25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/mfrog25/dsa25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/mfrog25/dsa25/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/mfrog25/dsa25/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mfrog25/dsa25/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/mfrog25/dsa25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mfrog25/dsa25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/mfrog25/dsa25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
